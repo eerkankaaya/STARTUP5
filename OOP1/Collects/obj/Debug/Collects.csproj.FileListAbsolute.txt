@@ -1,0 +1,8 @@
+C:\Users\eerka\source\repos\OOP1\Collects\bin\Debug\Collects.exe.config
+C:\Users\eerka\source\repos\OOP1\Collects\bin\Debug\Collects.exe
+C:\Users\eerka\source\repos\OOP1\Collects\bin\Debug\Collects.pdb
+C:\Users\eerka\source\repos\OOP1\Collects\obj\Debug\Collects.csproj.AssemblyReference.cache
+C:\Users\eerka\source\repos\OOP1\Collects\obj\Debug\Collects.csproj.SuggestedBindingRedirects.cache
+C:\Users\eerka\source\repos\OOP1\Collects\obj\Debug\Collects.csproj.CoreCompileInputs.cache
+C:\Users\eerka\source\repos\OOP1\Collects\obj\Debug\Collects.exe
+C:\Users\eerka\source\repos\OOP1\Collects\obj\Debug\Collects.pdb
